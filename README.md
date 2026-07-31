@@ -3,7 +3,7 @@
 " alt="backrooms" width="400">
 </p>
 <p align="center">
-WOAH!!! DID WE JUST NO CLIP INTO SOME SORT OF... BACK ROOM..?? WHERE ARE WE??? ITS SO... LIMINAL...
+ $\text{\small\it\color{#7edf6c}{WOAH!!! DID WE JUST NO CLIP INTO SOME SORT OF... BACK ROOM..?? WHERE ARE WE??? ITS SO... LIMINAL...}}$ 
  </p>
  <p align="center">
 <I><sup>$\text{\small\it\color{#60755d}{this is so fckuign stupid im going insane im sorry whoever sees this}}$</sup></I>
