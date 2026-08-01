@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=slmccll&label=trapped+in+the+backrooms&color=73b16f&abbreviated=&style=flat-square">
+  <img align="center" src="https://komarev.com/ghpvc/?username=slmccll&label=trapped+in+the+backrooms&color=abe98e&abbreviated=&style=flat-square">
  </a>
 </p>
 
@@ -11,5 +11,5 @@
  $\text{\small\it\color{#7edf6c}{WOAH!!! DID WE JUST NO CLIP INTO SOME SORT OF... BACK ROOM..?? WHERE ARE WE??? ITS SO... LIMINAL...}}$ 
  </p>
  <p align="center">
-<I><sup>$\text{\small\it\color{#60755d}{this is so fckuign stupid im going insane im sorry whoever sees this}}$</sup></I>
+<I><sup>$\text{\small\it\color{#399b84}{this is so fckuign stupid im going insane im sorry whoever sees this}}$</sup></I>
   </p>
