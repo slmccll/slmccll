@@ -24,5 +24,3 @@
   <p align="center"> <img align="center" src="https://64.media.tumblr.com/985e32155de33323e69ca4e1428e6629/2dd790ac9ce0a3b1-81/s1280x1920/356a3943e009d748f603f728a33bbd752c00841a.pnj" width="400"> <p align="center">
 
 <p align="center"> i love slimecicle, all art by me </p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g0noqw57wfqhbo395152cka3l&cover_image=false&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=733766&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
